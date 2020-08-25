@@ -1,4 +1,4 @@
-package flightappdemo;
+package gui;
 
 //import common.FlightAppConstants;
 import db.AirportAccessor;
