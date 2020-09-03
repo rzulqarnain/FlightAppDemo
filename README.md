@@ -1,5 +1,5 @@
 # FlightAppDemo
-Load the project in Netbeans.
+Load the project files in Netbeans.
 
 Connect the glassfish server.
 
